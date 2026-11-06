@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/sofa/static/css/main.c6adca05.css",
-    "main.js": "/sofa/static/js/main.1a0417f5.js",
+    "main.css": "/sofa/static/css/main.2c2196b2.css",
+    "main.js": "/sofa/static/js/main.8337eaf4.js",
     "static/media/main.png": "/sofa/static/media/main.1ef010efbdc26ea4b2d1.png",
     "static/media/3.jpg": "/sofa/static/media/3.bd4503efb315e6667b16.jpg",
     "static/media/2.jpg": "/sofa/static/media/2.a76741c73b8498fb9327.jpg",
@@ -10,11 +10,11 @@
     "static/media/logo.png": "/sofa/static/media/logo.041afea8d6ffe22205ff.png",
     "static/media/11.jpg": "/sofa/static/media/11.a379afc1dd8f2d6e07c8.jpg",
     "index.html": "/sofa/index.html",
-    "main.c6adca05.css.map": "/sofa/static/css/main.c6adca05.css.map",
-    "main.1a0417f5.js.map": "/sofa/static/js/main.1a0417f5.js.map"
+    "main.2c2196b2.css.map": "/sofa/static/css/main.2c2196b2.css.map",
+    "main.8337eaf4.js.map": "/sofa/static/js/main.8337eaf4.js.map"
   },
   "entrypoints": [
-    "static/css/main.c6adca05.css",
-    "static/js/main.1a0417f5.js"
+    "static/css/main.2c2196b2.css",
+    "static/js/main.8337eaf4.js"
   ]
 }
