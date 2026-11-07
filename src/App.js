@@ -1,11 +1,17 @@
-import React, { useEffect, useState } from 'react'
 import './styles/App.css'
-import Pages from './Sections/Pages';
+import { BrowserRouter } from 'react-router-dom';
+import Navbar from './Components/navbar/Navbar';
+import AppRouter from './Components/AppRouter';
+import Footer from './Sections/Footer/Footer';
 
-function App() {   
+function App() {
 
   return (
-    <Pages />
+    <BrowserRouter>
+      <Navbar />
+      <AppRouter />
+      <Footer />
+    </BrowserRouter>
   )
 }
 

@@ -82,7 +82,7 @@
 
   .content {
     /* align-items: center; */
-    height: 300px;
+    height: fit-content;
     text-align: center;
   }
 

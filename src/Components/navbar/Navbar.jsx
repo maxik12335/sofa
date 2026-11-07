@@ -2,6 +2,7 @@
 import classes from "./Navbar.module.css"
 import { useState } from "react";
 import logoImg from '../../assets/logo.png'
+import { NavLink } from "react-router-dom";
 
 
 // const Navbar = ({navColor, textColor}) => {
@@ -19,9 +20,9 @@ const Navbar = () => {
           <img className={classes.logo} src={logoImg} alt="main image" />
 
           <div className={classes.menu}>
-            <a className="text-base hover"  href="#about">обо мне</a>
-            <a className="text-base hover"  href="#price">прайс</a>
-            <a className="text-base hover"  href="#feedbacks">отзывы</a>
+            <NavLink className="text-base hover"  to="/about">обо мне</NavLink>
+            <NavLink className="text-base hover"  to="/price">прайс</NavLink>
+            <NavLink className="text-base hover"  to="/feedbacks">отзывы</NavLink>
           </div>
         </div>
 
@@ -47,18 +48,18 @@ const Navbar = () => {
           </div>
 
           <div className={classes.menu}>
-            <a 
+            <NavLink
               className={`${classes.link} text-base`}
-              href="#uslugy"
-              onClick={() => setIsOpen(false)}>обо мне</a>
-            <a 
+              to="/uslugy"
+              onClick={() => setIsOpen(false)}>обо мне</NavLink>
+            <NavLink
               className={`${classes.link} text-base`}              
-              href="#price"
-              onClick={() => setIsOpen(false)}>прайс</a>
-            <a 
+              to="/price"
+              onClick={() => setIsOpen(false)}>прайс</NavLink>
+            <NavLink
               className={`${classes.link} text-base`}              
-              href="#feedbacks"
-              onClick={() => setIsOpen(false)}>отзывы</a>
+              to="/feedbacks"
+              onClick={() => setIsOpen(false)}>отзывы</NavLink>
           </div>
 
           <img className={classes.logo} src={logoImg} alt="main image" />

@@ -1,10 +1,10 @@
-import classes from "./About.module.css"
+import classes from "./AboutSection.module.css"
 import img from '../../assets/ph/11.jpg'
 import img_2 from '../../assets/ph/1.jpg'
 import img_3 from '../../assets/ph/2.jpg'
 import img_4 from '../../assets/ph/3.jpg'
 
-const About = () => {
+const AboutSection = () => {
   const paragraphs = [
     "Знаете, я не думала, что это дар. И не думала, что это проклятие. Я просто жила с этим. Как живут с родинкой на пол-лица — сначала ненавидят, потом перестают замечать, потом начинают использовать",
     "Я с детства понимала, что так как у меня — далеко не у всех",
@@ -54,4 +54,4 @@ const About = () => {
   )
 }
 
-export default About;
+export default AboutSection;

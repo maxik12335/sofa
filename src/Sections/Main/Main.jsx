@@ -3,7 +3,7 @@ import mainImg from '../../assets/sofa-2.png'
 
 const Main = () => {
   return (
-    <div className="section--dark line-light-section section-video"> 
+    <div className="section--dark line-light-section"> 
       <div className="container">
 
         <div className={`${classes.content} content`}>
