@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/sova/static/css/main.575d79d4.css",
-    "main.js": "/sova/static/js/main.7130500b.js",
-    "static/media/main.png": "/sova/static/media/main.1ef010efbdc26ea4b2d1.png",
-    "static/media/3.jpg": "/sova/static/media/3.bd4503efb315e6667b16.jpg",
-    "static/media/2.jpg": "/sova/static/media/2.a76741c73b8498fb9327.jpg",
-    "static/media/1.jpg": "/sova/static/media/1.c7b60f74a21701d811c1.jpg",
-    "static/media/sofa-2.png": "/sova/static/media/sofa-2.e5908aa8ed13cbb298cb.png",
-    "static/media/logo.png": "/sova/static/media/logo.041afea8d6ffe22205ff.png",
-    "static/media/11.jpg": "/sova/static/media/11.a379afc1dd8f2d6e07c8.jpg",
-    "index.html": "/sova/index.html",
-    "main.575d79d4.css.map": "/sova/static/css/main.575d79d4.css.map",
-    "main.7130500b.js.map": "/sova/static/js/main.7130500b.js.map"
+    "main.css": "/sofa/static/css/main.575d79d4.css",
+    "main.js": "/sofa/static/js/main.8337eaf4.js",
+    "static/media/main.png": "/sofa/static/media/main.1ef010efbdc26ea4b2d1.png",
+    "static/media/3.jpg": "/sofa/static/media/3.bd4503efb315e6667b16.jpg",
+    "static/media/2.jpg": "/sofa/static/media/2.a76741c73b8498fb9327.jpg",
+    "static/media/1.jpg": "/sofa/static/media/1.c7b60f74a21701d811c1.jpg",
+    "static/media/sofa-2.png": "/sofa/static/media/sofa-2.e5908aa8ed13cbb298cb.png",
+    "static/media/logo.png": "/sofa/static/media/logo.041afea8d6ffe22205ff.png",
+    "static/media/11.jpg": "/sofa/static/media/11.a379afc1dd8f2d6e07c8.jpg",
+    "index.html": "/sofa/index.html",
+    "main.575d79d4.css.map": "/sofa/static/css/main.575d79d4.css.map",
+    "main.8337eaf4.js.map": "/sofa/static/js/main.8337eaf4.js.map"
   },
   "entrypoints": [
     "static/css/main.575d79d4.css",
-    "static/js/main.7130500b.js"
+    "static/js/main.8337eaf4.js"
   ]
 }
