@@ -7,7 +7,7 @@ import Footer from './Sections/Footer/Footer';
 function App() {
 
   return (
-    <BrowserRouter>
+    <BrowserRouter basename={process.env.PUBLIC_URL}>
       <Navbar />
       <AppRouter />
       <Footer />
